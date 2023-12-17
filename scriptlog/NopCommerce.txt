@@ -1,0 +1,2 @@
+[2023-12-16 23:31:26,052 INFO com.nopcommerce.TestCase.Level_21_Multiple_Environment_Owner] - OS name = windows 11
+[2023-12-16 23:31:26,053 INFO com.nopcommerce.TestCase.Level_21_Multiple_Environment_Owner] - 
